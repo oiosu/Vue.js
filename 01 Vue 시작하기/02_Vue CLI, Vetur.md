@@ -33,7 +33,7 @@
 
 
 
-◼ App.vue
+##### ◼ App.vue
 
 ```vue
 <template>

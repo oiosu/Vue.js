@@ -42,7 +42,7 @@ Vue.createApp({
 > })
 > ```
 >
-> `data` 라는 메소드를 만들어서 객체 데이터를 하나 return 한다. 
+> `data` 라는 메소드를 만들어서 객체 데이터를 하나 `return` 한다. 
 >
 > `message` 라는 속성을 하나 만들어서 문자 데이터(`Hello Vue`)를 할당한다. 
 
